@@ -14,7 +14,7 @@ html, body {
 	height: 100%;
 	width: 100%;
 	background-color: #000;
-	background-image: 
+	background-image: url(background.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -86,49 +86,49 @@ html, body {
 		}
 
 		.game .field .cell[data-ship="2"] {
-			background-image: url(/img/units/gammadrone.png);
+			background-image: url(units/gammadrone.png);
 		}
 
 		.game .field .cell[data-ship="4"] {
-			background-image: url(/img/units/wasp.png);
+			background-image: url(units/wasp.png);
 		}
 
 		.game .field .cell[data-ship="8"] {
-			background-image: url(/img/units/mirage.png);
+			background-image: url(units/mirage.png);
 		}
 
 		.game .field .cell[data-ship="16"] {
-			background-image: url(/img/units/truckc.png);
+			background-image: url(units/truckc.png);
 		}
 
 		.game .field .cell[data-ship="32"] {
-			background-image: url(img/units/frigate.png);
+			background-image: url(units/frigate.png);
 		}
 
 		.game .field .cell[data-ship="64"] {
-			background-image: url(img/units/cruiser.png);
+			background-image: url(units/cruiser.png);
 		}
 
 		.game .field .cell[data-ship="128"] {
-			background-image: url(img/units/battleship.png);
+			background-image: url(units/battleship.png);
 		}
 
 		.game .field .cell[data-ship="256"] {
-			background-image: url(img/units/carrier.png);
+			background-image: url(units/carrier.png);
 		}
 
 		.game .field .cell[data-ship="512"] {
-			background-image: url(img/units/dreadnought.png);
+			background-image: url(units/dreadnought.png);
 		}
 
 		.game .field .cell[data-ship="1024"] {
-			background-image: url(img/units/railgun.png);
+			background-image: url(units/railgun.png);
 		}
 
 		.game .field .cell[data-ship="2048"] {
-			background-image: url(img/units/reaper.png);
+			background-image: url(units/reaper.png);
 		}
 
 		.game .field .cell[data-ship="4096"] {
-			background-image: url(img/units/flagship.png);
+			background-image: url(units/flagship.png);
 		}
